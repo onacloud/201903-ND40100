@@ -20,11 +20,11 @@
 
 중간발표 
 - 날짜: 2019.04.15
-- 준비: [ovenapp](https://ovenapp.io/)을 이용한 전체 UX를 프로젝트 GitHub 주소에 등록
+- 준비: [ovenapp](https://ovenapp.io/)에 전체 UX를 등록
 
 최종발표 
 - 날짜: 2019.06.03
-- 준비: [youtube](https://youtube.com/)을 이용한 어플리케이션 시연 동영상을 GitHub 주소에 등록
+- 준비: [youtube](https://youtube.com/)에 어플리케이션 시연 동영상 등록
 
 평가
 - 팀별 평가
@@ -49,10 +49,6 @@
 
 
 ## 참고
-
-수업
-
-- https://facebook.github.io/react-native/docs/getting-started
 
 GitHub Topic
 
