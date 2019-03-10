@@ -35,16 +35,20 @@
 - 1주차(3/4): 소개
 - 2주차(3/11): https://www.codeproject.com/Articles/753724/JavaScript-Front-End-Web-App-Tutorial-Part
 - 3주차(3/18): https://facebook.github.io/react-native/docs/getting-started
-- 4주차(3/25): 준비중
-- 5주차(4/1): 준비중
-- 6주차(4/8): 준비중
+   - https://chocolatey.org/
+   - https://developer.android.com/studio
+   - https://github.com/react-native-community/react-native-camera
+   - https://github.com/xotahal/react-native-material-ui
+- 4주차(3/25): 미정
+- 5주차(4/1): 미정
+- 6주차(4/8): 미정
 - 7주차(4/15): 중간발표
-- 8주차(4/22): 준비중
-- 9주차(4/29): 준비중
-- 10주차(5/6): 준비중
-- 11주차(5/13): 준비중
-- 12주차(5/20): 준비중
-- 13주차(5/27): 준비중
+- 8주차(4/22): 미정
+- 9주차(4/29): 미정
+- 10주차(5/6): 미정
+- 11주차(5/13): 미정
+- 12주차(5/20): 미정
+- 13주차(5/27): 미정
 - 14주차(6/3): 최종발표
 
 
