@@ -36,7 +36,7 @@
 - 2주차(3/11): https://www.codeproject.com/Articles/753724/JavaScript-Front-End-Web-App-Tutorial-Part
    - [JavaScript Objects](https://www.w3schools.com/js/js_object_definition.asp)
    - [TableRow insertCell() Method](https://www.w3schools.com/jsref/met_tablerow_insertcell.asp)
-   - (Object-Constructors.html)[https://github.com/onacloud/201903-ND40100/blob/master/JavaScript/Object-Constructors.html]
+   - [Object-Constructors.html](https://github.com/onacloud/201903-ND40100/blob/master/JavaScript/Object-Constructors.html)
 - 3주차(3/18): https://facebook.github.io/react-native/docs/getting-started
    - https://chocolatey.org/
    - https://developer.android.com/studio
