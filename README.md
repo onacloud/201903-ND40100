@@ -34,6 +34,8 @@
 
 - 1주차(3/4): 소개
 - 2주차(3/11): https://www.codeproject.com/Articles/753724/JavaScript-Front-End-Web-App-Tutorial-Part
+   - [JavaScript Objects](https://www.w3schools.com/js/js_object_definition.asp)
+   - [TableRow insertCell() Method](https://www.w3schools.com/jsref/met_tablerow_insertcell.asp)
 - 3주차(3/18): https://facebook.github.io/react-native/docs/getting-started
    - https://chocolatey.org/
    - https://developer.android.com/studio

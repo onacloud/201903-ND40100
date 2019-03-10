@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Object Constructors</h2>
+<p>Open Chrome Debugger</p>
+
+<script>
+function Person(first, last, age, eye) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
+  this.eyeColor = eye;
+}
+
+function Student(first, last, age, eye) {
+  return {
+  	firstName:first, 
+    lastName:last,
+    age:age,
+    eyeColor:eyeColor,
+  };
+}
+
+var john1 = new Person("John1", "Doe", 50, "blue");
+var john2 = Person("John2", "Doe", 50, "blue");
+var john3 = new Student("John3", "Doe", 50, "blue");
+var john4 = Student("John4", "Doe", 50, "blue");
+
+console.log(john1);
+console.log(john2);
+console.log(john3);
+console.log(john4);
+</script>
+
+
+</body>
+</html>
