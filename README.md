@@ -39,9 +39,9 @@
    - https://developer.android.com/studio
    - https://github.com/react-native-community/react-native-camera
    - https://github.com/xotahal/react-native-material-ui
-- 4주차(3/25): 미정
-- 5주차(4/1): 미정
-- 6주차(4/8): 미정
+- 4주차(3/25): HTML, CSS
+- 5주차(4/1): Javascript
+- 6주차(4/8): Database
 - 7주차(4/15): 중간발표
 - 8주차(4/22): 미정
 - 9주차(4/29): 미정
