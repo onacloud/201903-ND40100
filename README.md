@@ -37,9 +37,9 @@
    - [JavaScript Objects](https://www.w3schools.com/js/js_object_definition.asp)
    - [TableRow insertCell() Method](https://www.w3schools.com/jsref/met_tablerow_insertcell.asp)
    - [Object-Constructors.html](https://github.com/onacloud/201903-ND40100/blob/master/JavaScript/Object-Constructors.html)
-- 3주차(3/18): [React native 살펴보기](React.md#a) 
-- 4주차(3/25): [React native 꾸미기](React.md#b) 
-- 5주차(4/1): Database
+- 3주차(3/18): [React native 살펴보기](React.md#s1) 
+- 4주차(3/25): [React native 꾸미기](React.md#s2) 
+- 5주차(4/1): [React native 데이터](React.md#s3) 
 - 6주차(4/8): 미정
 - 7주차(4/15): 중간발표
 - 8주차(4/22): 미정
