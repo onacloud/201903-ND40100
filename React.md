@@ -33,7 +33,6 @@ Snack
 연습
 
 - https://callstack.github.io/react-native-paper/index.html
-- https://snack.expo.io/@satya164/github.com-callstack-react-native-paper:example
 
 참고
 
@@ -42,6 +41,12 @@ Snack
 - https://github.com/oblador/react-native-vector-icons
 - https://github.com/iamport/iamport-react-native
 
+
+## <a name="s2"></a> 샘플
+
+연습
+
+- https://snack.expo.io/@satya164/github.com-callstack-react-native-paper:example
 
 ## <a name="s3"></a> 데이터
 
