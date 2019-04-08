@@ -21,6 +21,7 @@
 중간발표 
 - 날짜: 2019.04.15
 - 준비: [ovenapp](https://ovenapp.io/)에 전체 UX를 등록
+- 발표: 10분내외, 5
 
 최종발표 
 - 날짜: 2019.06.03
@@ -39,10 +40,10 @@
    - [Object-Constructors.html](https://github.com/onacloud/201903-ND40100/blob/master/JavaScript/Object-Constructors.html)
 - 3주차(3/18): [React native 살펴보기](React.md#s1) 
 - 4주차(3/25): [React native 꾸미기](React.md#s2) 
-- 5주차(4/1): [React native 데이터](React.md#s3) 
-- 6주차(4/8): 미정
+- 5주차(4/1):  조별회의
+- 6주차(4/8): 조별회의
 - 7주차(4/15): 중간발표
-- 8주차(4/22): 미정
+- 8주차(4/22): [React native 데이터](React.md#s3)
 - 9주차(4/29): 미정
 - 10주차(5/6): 미정
 - 11주차(5/13): 미정
