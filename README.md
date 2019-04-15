@@ -52,6 +52,25 @@
 - 14주차(6/3): 최종발표
 
 
+## 중간발표
+
+https://github.com/neulneul/NEULHONEY
+  - 장점: 
+  - 단점: 
+
+https://github.com/KANGHAEUN/SUNGSHIN-Project.git
+  - 장점: 
+  - 단점: 
+
+https://github.com/2sun/leesun
+  - 장점: 
+  - 단점: 
+
+https://github.com/qlcid/seulyeon
+  - 장점: 
+  - 단점: 
+
+
 ## 참고
 
 GitHub Topic
