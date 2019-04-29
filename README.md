@@ -69,8 +69,11 @@ https://github.com/KANGHAEUN/SUNGSHIN-Project.git
       - 포스트에 대한 정렬기준을 정할필요 있음. 최신글 또는 마감글 등이 고려할 만함.
 
 https://github.com/2sun/leesun
-   - 장점: 
-   - 개선점: 
+   - Catch my hand: 보험사가 아니라 소비자 친화적 손해사정사를 연결해주는 웹앱. 
+   - [발표자료](presentation-mid/catch-my-hand.pdf)
+   - 장점: 소비자 친화적 손해사정사를 찾을 수 있는 기회를 제공
+   - 개선점
+      - 별점, 후기, 지역카테고리와 같이 손해사정사를 고를수 있는 필터를 제공할 필요가 있음
 
 https://github.com/qlcid/seulyeon
    - 메디야: 복용약에 대한 검색기능과 알람기능을 제공하는 웹앱
