@@ -58,9 +58,9 @@ Snack
 
 참고
 
+- https://snack.expo.io/@onacloud/fb
 - https://developers-kr.googleblog.com/2016/08/the-beginners-guide-to-react-native-and-firebase.html 초보자를 위한 React Native와 Firebase 시작하기
 - https://github.com/invertase/react-native-firebase
-- https://snack.expo.io/@onacloud/firebase-1
 - https://console.firebase.google.com/?hl=ko
 
 
