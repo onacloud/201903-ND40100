@@ -67,7 +67,7 @@ Snack
 
 연습
 
-- https://medium.com/@asiif.shariif/react-native-crud-list-using-firebase-real-time-database-483b95c0b1dd
+- https://snack.expo.io/@onacloud/fb-oauth
 
 참고
 
