@@ -63,6 +63,16 @@ Snack
 - https://github.com/invertase/react-native-firebase
 - https://console.firebase.google.com/?hl=ko
 
+## <a name="s4"></a> 소셜로그인
+
+연습
+
+- https://medium.com/@asiif.shariif/react-native-crud-list-using-firebase-real-time-database-483b95c0b1dd
+
+참고
+
+- https://github.com/adamjmcgrath/react-native-simple-auth
+- https://github.com/fullstackreact/react-native-oauth
 
 ## 그외 참고자료
 
