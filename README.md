@@ -69,6 +69,8 @@ https://github.com/KANGHAEUN/SUNGSHIN-Project.git
    - 개선점
       - 포스트에 대한 정렬기준을 정할필요 있음. 최신글 또는 마감글 등이 고려할 만함.
 
+https://github.com/dl3l3l/jasujung
+
 https://github.com/2sun/leesun
    - Catch my hand: 보험사가 아니라 소비자 친화적 손해사정사를 연결해주는 웹앱. 
    - [발표자료](presentation-mid/catch-my-hand.pdf)
